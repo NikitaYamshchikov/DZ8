@@ -1,0 +1,15 @@
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\bin\Debug\net6.0\Zadacha21.exe
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\bin\Debug\net6.0\Zadacha21.deps.json
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\bin\Debug\net6.0\Zadacha21.runtimeconfig.json
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\bin\Debug\net6.0\Zadacha21.dll
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\bin\Debug\net6.0\Zadacha21.pdb
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.AssemblyReference.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfoInputs.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfo.cs
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.CoreCompileInputs.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.dll
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\refint\Zadacha21.dll
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.pdb
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\Zadacha21.genruntimeconfig.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Seminar3\Zadacha21\obj\Debug\net6.0\ref\Zadacha21.dll
