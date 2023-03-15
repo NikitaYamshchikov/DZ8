@@ -1,0 +1,15 @@
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\bin\Debug\net6.0\Zadacha68.exe
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\bin\Debug\net6.0\Zadacha68.deps.json
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\bin\Debug\net6.0\Zadacha68.runtimeconfig.json
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\bin\Debug\net6.0\Zadacha68.dll
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\bin\Debug\net6.0\Zadacha68.pdb
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.csproj.AssemblyReference.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.AssemblyInfoInputs.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.AssemblyInfo.cs
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.csproj.CoreCompileInputs.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.dll
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\refint\Zadacha68.dll
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.pdb
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\Zadacha68.genruntimeconfig.cache
+C:\Users\vakis\OneDrive\Рабочий стол\Recursiya\Zadacha68\obj\Debug\net6.0\ref\Zadacha68.dll
